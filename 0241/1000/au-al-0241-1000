@@ -1,0 +1,96 @@
+In conversation with... Tim Malbon and Alex Harding
+Copyright 2012 Perini Networks Europe Ltd.
+CC BY-NC-ND
+
+Picle is an application launched by Made by Many at the recent South by South West conference. Essentially a storytelling app which combines user-captured sound and vision, it was given considerable acclaim and coverage upon its launch.
+
+-> Pic
+
+We caught up with Alex and Tim from Made by Many to talk about Picle, and the approach that Made by Many are taking to the development of their own products.
+
+-> Read more
+
+
+Tell us about Picle.
+
+AH: I wanted to document my weekend in a new and interesting way. I had been playing a lot with video, and was experimenting with it in different ways. I used the camera and voice memo and, over a weekend, I took a picture and recorded a sound of where I was at the time... to capture that moment. At the end of the day, I merged them in AfterEffects, which took a hell of a lot of time to do, but there was a really good story at the end of it. I showed it to a few people and was a bit weary of showing it, but they said that I should blog about it. I added it to the blog, and it had a good response. At that point, we decided to develop a prototype.
+
+We have a very good iOS developer, Julian; He started with getting the capture right - taking an image and sound for the first time. We went through quite a few different prototypes, and got to the point where we could make content - into a story - a Picle. We had quite a few people working on the project, and another member of our team, Andrew, built a simple web service for it. There was a lot of prototyping to see how it worked, and once we had got it, we brought a guy called Alex in, who built the web service that you see at the moment. We did it for SxSW to see how people documented their journey through the conference.
+
+TM: We try to do something for SxSW each year that's fun, a little bit different, but very much our own thing. We have done homepage takeovers, and last year an iPad app, Hollergram, which did really well. It was quite cheeky and sort of subverted the way in which people used iPads by turning them into a glowing sign that they could hold up during a talk. Each year we get a little bit more ambitious at this. So, this year, we were able to find internal resource to do this. We're not set up to make our own products, but we obviously have ambitions to do that, and they seem to be the projects that everyone gets behind. There was a lot of internal interest in making something, and SxSW was an excellent place to test Picle. The evidence that we got back was excellent. There are definitely people creating Picles, and that's just lovely to see. We probably had a super-engaged group of around 2000 people who played with it and we can work with to do other stuff. To date, it has had just under 40,000 downloads, which is great. 
+
+http://madebymany.com/blog/sxsw-countdown-one-week
+http://madebymany.com/blog/hello-holler-gram
+
+AH: … in just over a week. That's pretty unbelievable.
+
+T: We didn't really have any targets for it, so we're quite blown away by it. We've just had an internal workshop to decide what to do with it next.
+
+
+
+Was the intention to develop Picle as a mature product, or was it always about developing a Minimum Viable Product and iterating out of it?
+
+TM: It was a combination of those two things. We always try to launch the smallest version that will provide us with actionable, meaningful feedback. We very much believe in emergent products. The complexity of particularly digital products mean that you almost have to co-create with your target audience in mind. When you do, you do it very quickly and in a very disciplined way; they become much more like the things that people want to use. That's our underlying philosophy, a philosophy that guides everything that we do. It just happens that this time, we're making something for ourselves. To be clear, we were not thinking that we wanted to launch a great iPhone app. 
+
+AH: My initial video in Broadstairs, taken about half a year ago... that's what we set out to do, to allow the user to take a Picle and to merge it into a story. That was the Minimum Viable Product. For sharing and other features, we built a quick web service that people could share on. It's still early days for the web service, however.
+
+TM: I think that everything that we have done so far has been really efficient. It's easiest at this end of the process. Now we have to make some difficult decisions - 'should it be this or that?'. We're not going to discover them by keeping it minimal. There's a bunch of stuff that we think that we need to do next. It's really about scale, and social. We're no longer at SxSW, so we need to find a new mechanism to bring new people into the product, and to make it easier for them to share. A lot of that was not prioritised - deliberately – for the first release, as we felt that we did not need to do it for those two weeks. Now, it's about turning on Facebook, Twitter, sharing to various other places, and being able to share the video to places like YouTube. We've got to let the app go and find its own way, and to give it a bit of help to do that
+
+
+
+You could strategise this forever, but you're developing something in a much more pragmatic way.
+
+TM: Totally. I don't think that I have experienced any project where the ideas that we all have ... while they have good guts, they have never experienced the first contact with the real audience as intact. They are always changed by that contact. We just really want to try to embrace that, and for it to be part of the process, rather than to try to find ways to cope with it. 
+
+
+
+How do you see Made by Many evolving? Will we expect to see more products?
+
+TM: I would like to think so. We really love doing that sort of stuff, but working with clients allows us to make products that really have scaled audiences. It's great to make these tools and for them to scale out, but on the first day of the launch of the ITV News project, it reached hundreds of thousands of people and will have millions of users, and it's something that our families have heard of. There's a balance to strike in both. 
+
+What we have learnt in our four years is that we don't want to be any kind of 'digital marketing agency'. We want to do product innovation and service design. There is so much awesome work to do at the moment. Every major company is now realising that it could be making products that make the brand and its services even more exciting to its customers. That's what we want to be doing. I don't necessarily mind if we do it for someone else or for ourselves, as long as we do it in the right way, and that the things that we make achieve the scale and success that we think that they should. Otherwise, there doesn't seem to be much point.
+
+http://madebymany.com/blog/digital-transformation-at-itv-news
+
+
+
+Do you find not being a digital marketing agency a challenge? Is it difficult to explain what Made by Many does?
+
+TM: It's something that we struggled with in the first two years. It's become easier over time, because I think that the market increasingly understands what product innovation and service design is. If there's one thing that has changed that, it's the rise of Apple. They have totally raised the bar and made people understand that packaging really advanced technology with beautifully elegant, simple design, is a business game-changer. It's transformative to a business in all sorts of ways. We're all used to these services now – they're called apps, and we all use them all the time. I think that everyone certainly knows a bit more [about product innovation and service design] than when we started.
+
+We started out in 2007 talking about service design and there were not very many service design firms around. Livework were doing some interesting stuff and Ideo were there too... but I see a general trend of, across the market, of people wanting to make things that have business effects rather than just communicating things, and that is certainly the case for us. We were inside BBH for the first three years of our life, and I think that helped us to understand what we didn't want to do. We have to walk away from a lot of work in order to keep that purity, but if you take the work that you know is not good for you, that you know is not the kind of work that you want to do... it becomes a self-fulfilling prophesy. That's the kind of work that people know you for. It's a difficult thing to get out of, but I think that we have been able to do it slowly by picking and choosing, and by leaving work on the table. We could have been a digital marketing agency, but we would not have enjoyed our jobs so much. 	 
+
+
+
+Will there be greater emphasis on products in the future? Could we see microbusinesses spun out of Made by Many, or are you ensuring that Made by Many remains at the 'heart and soul' of everything?
+
+TM: The way that Mint Digital have spun out ideas from their main agency with PickLive, for example... I see quite a lot of interesting companies on the borders of what might have been called a digital agency and the way a startup works, and then defining the categories that people want to put them in. Part of the problem is that the world wants to put you into a bucket from the past. It's hard if you're doing innovative work, not to be put into that bucket. But, I really think there's a trend towards that, and why wouldn't there be? People are leaving ad agencies and marketing companies. All the smart people are leaving and doing their own startups. At the other end, you have new graduates looking for jobs, deciding that they will do their own thing. Instead of working for McKinsey or a big ad agency, it has become socially exciting and acceptable to go and do your own thing and have a go at it. That works for us for a recruitment perspective, as we're able to find a place for people that want to work in that kind of environment.
+
+
+
+Was SxSW's reception to Picle as you expected?
+
+AH: It was a lot more than we expected. One of the best things out of it was seeing someone using it in the street. It's one of the proudest moments, from a product point of view. The rest was icing on the cake: to get into Forbes, to have Fast Company talk about it, for Apple to tweet it from the App Store account. We have seen loads of people make their own stories with it, including making cakes, and holding birthday parties. There was a musician on Picle the other day; it looked like he was in a bar, and it panned around and it turned out that he was backstage, jamming with a couple of vocalists. That was awesome.
+
+www.forbes.com/sites/billbarol/2012/03/12/picle-takes-sxsw/
+http://www.fastcocreate.com/1680120/take-my-picle-made-by-manys-new-storytelling-app-debuts-at-sxsw
+
+TM: We didn't expect to see it in Forbes. That good feeling about Picle was really lovely. We want to make Picle better and better. At the moment, it's the beginning of the beginning. It's malleable, and there's enough there for us to do new stuff [to it] and for it to change radically, so we get it right. The great thing about it is that we now have a good feeling that, at the core of the experience, it is something that people want to do. That's what was validated at SxSW.
+
+
+
+What's great about it is that it's simplistic. It's a facilitator for storytelling, with no bells and whistles.
+
+TM: I loved Twitter at the beginning because it could be anything that you wanted it to be. Picle is like that. It's what Conor Delahunty here calls “Hackable Space”.
+
+
+
+Alex Harding and Tim Malbon are from Made by Many, and are on Twitter as @alex_r_harding and @malbonster respectively.
+
+http://www.madebymany.com/
+
+Further information on Picle is available on the dedicated Picle website, Twitter @picleapp, and it can be downloaded from the Apple App Store.
+
+http://www.twitter.com/picleapp/
+http://picleapp.com/
+http://itunes.apple.com/gb/app/picle/id501343840?mt=8
